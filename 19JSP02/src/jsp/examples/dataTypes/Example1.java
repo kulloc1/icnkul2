@@ -15,7 +15,7 @@ public class Example1 {
 		
 		/*int a2 = 128;
 		int b2 = 128;
-		System.out.println(a2 == b2 ? true : false);*/
+		System.out.println(a2 =1243= b2 ? true : false);*/
 		
 		/*int i = 0;
 		while (a1 != b1) {
