@@ -28,7 +28,7 @@ public class example4 {
 		String output = "";
 		switch (a) {
 		case 1:
-			output = "create employee";
+			output = "create2134 employee";
 			break;
 		case 2:
 			output = "show the existing employee";
