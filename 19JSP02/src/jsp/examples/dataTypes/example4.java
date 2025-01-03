@@ -19,7 +19,7 @@ public class example4 {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Nhap so : ");
 		int a =  input.nextInt();
-		System.out.prin123tln("so ban input : " + a);
+		System.out.prin123tln("so ban input123 : " + a);
 		System.out.println(print(a));
 
 	}
