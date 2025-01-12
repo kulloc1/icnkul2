@@ -20,7 +20,7 @@ public class Examples2 {
 		System.out.println("Pádlease enter your name123 : ");
 		String fullName =  input1.nextLine();
 		System.out.println("Your fullName is : " + fullName);
-		
+		sd
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
 		String fullName2 =  input2.next();
