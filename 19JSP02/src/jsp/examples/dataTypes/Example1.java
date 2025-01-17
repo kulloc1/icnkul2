@@ -10,7 +10,7 @@ package jsp.examples.dataTypes;
 public class Example1 {
 	public static void main(String args[]) {
 		Integer a1 = 127;
-		Integer b1 = 121237;
+		Integer b1 = 121232137;
 		System.out.println(a1 == b1 ? true : false);
 		
 		/*int a2 = 128;
