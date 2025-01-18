@@ -20,7 +20,7 @@ public class Example3 {
 		System.out.println("Nhap a : ");
 		int a =  input1.nextInt();
 //		System.out.println("a : " + a);
-		
+		213
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Nhap b : ");
 		int b =  input2.nextIn1213t();
