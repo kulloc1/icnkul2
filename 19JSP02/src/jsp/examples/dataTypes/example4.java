@@ -17,7 +17,7 @@ public class example4 {
 	 */
 	public static void main(String[] args) {
 		Scanner inpu123t = new Scanner(System.in);
-		System.out.println("Nhap so : ");
+		System.out.println("Nhap so123 : ");
 		int a =  input.nextInt();
 		System.out.prin123tln("so213 ban input123 : " + a);
 		System.out.println(print(a))eqw;
